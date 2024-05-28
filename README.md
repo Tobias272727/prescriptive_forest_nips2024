@@ -6,7 +6,7 @@ This repository is the official implementation of [My Paper Title](https://arxiv
 
 >📋  Optional: include a graphic explaining your approach/main result, BibTeX entry, link to demos, blog posts and tutorials
 
-todo
+todo: we haven't update the paper to arxiv yet, will update the link later
 
 ## Requirements
 
