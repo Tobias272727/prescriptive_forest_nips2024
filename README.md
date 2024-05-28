@@ -4,9 +4,9 @@
 
 This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
 
->📋  Optional: include a graphic explaining your approach/main result, BibTeX entry, link to demos, blog posts and tutorials
+>📋  Optional: include a graphic explaining your approach/main result, a BibTeX entry, link to demos, blog posts and tutorials
 
-todo: we haven't update the paper to arxiv yet, will update the link later
+todo: we haven't updated the paper to Arxiv yet, but we will update the link later
 
 ## Requirements
 
@@ -23,14 +23,14 @@ pip install -r requirements.txt
 
 To train the model(s) in the paper, run this command:
 
-```train and evaluate
+```Train and evaluate
 We integrate the training and evaluation processes into the main_nips.py file
 python main_nips.py
 ```
 
->📋  The experiments can be reproduced by importing different config file: e.g., import .nips_configs.synthetic.cj, will run the experiment synthetic data with all
+>📋  The experiments can be reproduced by importing different config file: e.g., import .nips_configs.synthetic.cj_release, will run the experiment synthetic data
 
->📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).
+>📋  The evaluation is by regret %, optimisation loss and coefficient of prescriptiveness, which will be automatically calculated by example_fig.jpynb file.
 
 
 ## Results
