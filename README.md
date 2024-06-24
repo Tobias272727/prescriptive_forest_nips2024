@@ -1,12 +1,3 @@
->📋  A template README.md for code accompanying a Machine Learning paper
-
-# My Paper Title
-
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
-
->📋  Optional: include a graphic explaining your approach/main result, a BibTeX entry, link to demos, blog posts and tutorials
-
-todo: we haven't updated the paper to Arxiv yet, but we will update the link later
 
 ## Requirements
 
